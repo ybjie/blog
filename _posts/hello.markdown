@@ -4,8 +4,7 @@ title:      "Welcome!"
 date:       2016-11-20 18:18:00
 author:     "ybjie"
 header-img: "img/post-bg-2015.jpg"
-tags:
-    - 生活
+tags:  生活
 ---
 
 ## 正文
