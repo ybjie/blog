@@ -4,9 +4,7 @@ title:      "Remove Tag img"
 date:       2016-11-21 11:43:00
 author:     "ybjie"
 header-img: "img/post-bg-2015.jpg"
-tags:  
-	- 生活
-	- Web
+tags: - 生活 - Web
 	
 ---
 
