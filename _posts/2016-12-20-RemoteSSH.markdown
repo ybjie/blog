@@ -43,12 +43,15 @@ tags:
 1.这个其实并没有具体的计划，只是忽然想起来，刚好闲着于是就动手了，谁知道竟然花了这么久
 
 2.server需要安装openssh_server的，一个命令,之后开启server服务
+
 > sudo /etc/init.d/ssh start
 > service ssh start (choose one)
 > ps -e | grep ssh (check)
 
 server配置文件在这里 
+
 > /etc/ssh/sshd_config
+
 若果修改了配置文件需要重启(stop,start)
 下面就可以ssh user@host进行访问了
 
