@@ -45,7 +45,9 @@ tags:
 2.server需要安装openssh_server的，一个命令,之后开启server服务
 
 > sudo /etc/init.d/ssh start
+
 > service ssh start (choose one)
+
 > ps -e | grep ssh (check)
 
 server配置文件在这里 
@@ -74,5 +76,3 @@ server配置文件在这里
 
 
 本次行动充分发挥了工科男，不怕死，不作死就不会死，动手搞死你的精神，党和国家会铭记你所做的一切的！
-
-> “Yeah It's on. ”
