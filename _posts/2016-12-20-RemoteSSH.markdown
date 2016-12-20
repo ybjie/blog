@@ -36,7 +36,7 @@ tags:
 8.hfs+的日志是可以随意开关的，不会影响数据
 
 > diskutil enableJournal \| disableJournal disk0s2(具体位置)
-> diskutil list查看
+diskutil list查看
 
 9.重点看8，5，4
 
@@ -48,8 +48,8 @@ tags:
 2.server需要安装openssh_server的，一个命令,之后开启server服务
 
 > sudo /etc/init.d/ssh start
-> service ssh start (choose one)
-> ps -e \| grep ssh (check)
+service ssh start (choose one)
+ps -e \| grep ssh (check)
 
 server配置文件在这里 
 
