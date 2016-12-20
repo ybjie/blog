@@ -33,7 +33,9 @@ tags:
 
 7.网上说，hfs+(unJournaled)在ubuntu下安装插件是可以写的，我实验的时候比较悲剧，重新挂载之后直接找不到了，吓死我了，本来就对mount命令比较恐惧，于是我放弃了，一点点来回拷贝吧（所以才花了那么长时间）
 
-8.hfs+的日志是可以随意开关的，不会影像数据，命令行，diskutil enableJournal \| disableJournal disk0s2(具体位置)，可以通过diskutil list来查看
+8.hfs+的日志是可以随意开关的，不会影像数据
+> diskutil enableJournal \| disableJournal disk0s2(具体位置)
+> diskutil list查看
 
 9.重点看8，5，4
 
