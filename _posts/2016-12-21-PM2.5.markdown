@@ -3,7 +3,7 @@ layout:     post
 title:      "号外，号外！华北东北全部沦陷！"
 date:       2016-12-21 21:49:09
 author:     "ybjie"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/home-bg-o.jpg"
 tags: 
 - 扯淡
 - 生活 
